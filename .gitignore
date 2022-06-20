@@ -1,0 +1,22 @@
+# images
+*.jpg
+*.png
+*.jpeg
+
+# torch weights
+*.pt
+*.pth
+
+# results
+*.json
+*.pkl
+*.npy
+*.txt
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Misc
+.DS_Store
