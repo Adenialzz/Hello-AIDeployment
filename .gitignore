@@ -3,9 +3,11 @@
 *.png
 *.jpeg
 
-# torch weights
+# model weights
 *.pt
 *.pth
+*.onnx
+*.trtmodel
 
 # results
 *.json
